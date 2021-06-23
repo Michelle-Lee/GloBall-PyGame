@@ -1,5 +1,5 @@
 # Lumen-PyGame
-This Project is currently in-progress. Stay Tuned!
+[In Progress]
 
 <br><br>
 ![Lumen-demo](demo/Lumen_Demo.gif)
